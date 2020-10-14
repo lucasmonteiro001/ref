@@ -9,3 +9,10 @@
 # Microsserviços
 - [The InfoQ eMag - Microservices: Testing, Observing, and Understanding](https://www.infoq.com/minibooks/understanding-microservices/?itm_source=minibooks&itm_medium=link&itm_campaign=homepage)
 - [Transformando a indústria da saúde através de API Marketplaces](https://www.infoq.com/br/articles/healthcare-API-marketplaces/?itm_source=infoq&itm_campaign=footer_links&itm_medium=footer_links_news_page)
+
+# Terminal
+- [CLI Tools](https://medium.com/swlh/my-favorite-cli-tools-c2fa484cee52)
+- z => move around directories
+- fd => super finder
+- ripgrep => more powerful and easier grep
+- exa => ls
