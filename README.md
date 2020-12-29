@@ -1,3 +1,6 @@
+# Ambientes de execução
+- [jenv - gerenciador de versões java](https://medium.com/@chamikakasun/how-to-manage-multiple-java-version-in-macos-e5421345f6d0)
+
 # Arquitetura de software
 - [Arquitetura Hexagonal](https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/#comment-634858)
 - [Presentation-Domain-Data Layering](https://martinfowler.com/bliki/PresentationDomainDataLayering.html)
