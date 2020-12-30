@@ -19,7 +19,8 @@
 # Terminal
 - [CLI Tools](https://medium.com/swlh/my-favorite-cli-tools-c2fa484cee52)
 - [csvkit](https://github.com/wireservice/csvkit) => converter json -> csv e vice-versa
-- z => move around directories
-- fd => super finder
-- ripgrep => more powerful and easier grep
-- exa => ls
+- z: move around directories
+- fd: super finder
+- ripgrep: more powerful and easier grep
+- exa: ls
+- [yadr](https://github.com/skwp/dotfiles): deixa o terminal mais top
