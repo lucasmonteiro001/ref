@@ -8,6 +8,10 @@
 - [Descomplicando a Clean Architecture](https://medium.com/luizalabs/descomplicando-a-clean-architecture-cf4dfc4a1ac6)
 - [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://medium.com/software-alchemy/a-brief-intro-to-clean-architecture-clean-ddd-and-cqrs-23243c3f31b3)
 
+# Base de dados
+- [Postgres max_connections](https://www.cybertec-postgresql.com/en/tuning-max_connections-in-postgresql/)
+- [Postgres max_connections performance impact](https://www.cybertec-postgresql.com/en/max_connections-performance-impacts/)
+
 # Cartões de crédito
 - [Entendendo o processamento](https://www.youtube.com/watch?v=D9rVPRUzbeE&list=PLwuCDBoP4wG-Jtg2dtdW7IoqN2SC_tfTB&ab_channel=RobertoHypolitoAmaral)
 
