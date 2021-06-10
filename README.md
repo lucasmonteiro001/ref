@@ -31,3 +31,6 @@
 - ripgrep: more powerful and easier grep
 - [yadr](https://github.com/skwp/dotfiles): deixa o terminal mais top
 - z: move around directories
+
+# Tests
+- [On the Diverse And Fantastical Shapes of Testing](https://martinfowler.com/articles/2021-test-shapes.html)
