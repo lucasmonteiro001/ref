@@ -15,6 +15,10 @@
 # Cartões de crédito
 - [Entendendo o processamento](https://www.youtube.com/watch?v=D9rVPRUzbeE&list=PLwuCDBoP4wG-Jtg2dtdW7IoqN2SC_tfTB&ab_channel=RobertoHypolitoAmaral)
 
+# MacOS
+- [Kap](https://getkap.co/) => Criar gifs a partir de vídeos
+- [Lightshot](https://apps.apple.com/us/app/lightshot-screenshot/id526298438?mt=12) => Captura de tela
+
 # Microsserviços
 - [The InfoQ eMag - Microservices: Testing, Observing, and Understanding](https://www.infoq.com/minibooks/understanding-microservices/?itm_source=minibooks&itm_medium=link&itm_campaign=homepage)
 - [Transformando a indústria da saúde através de API Marketplaces](https://www.infoq.com/br/articles/healthcare-API-marketplaces/?itm_source=infoq&itm_campaign=footer_links&itm_medium=footer_links_news_page)
