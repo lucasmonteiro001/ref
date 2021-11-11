@@ -38,3 +38,6 @@
 
 # Tests
 - [On the Diverse And Fantastical Shapes of Testing - Martin Fowler in pyramid vs honeycomb](https://martinfowler.com/articles/2021-test-shapes.html)
+
+# Outros
+- [How to become the best in the world](https://unchartedterritories.tomaspueyo.com/p/how-to-become-the-best-in-the-world)
