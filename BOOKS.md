@@ -5,6 +5,15 @@
 
 - Principles of Web API Design: Delivering Value with APIs and Microservices
 
+## 3 Books To Advance Your Career as a Developer
+https://betterprogramming.pub/3-books-to-advance-your-career-as-a-developer-1a303b98b2e5
+
+- Designing Data-Intensive Applications by Martin Kleppmann
+This book is full of insight into how processing and storing data works. It covers database topics deeply. You will learn different types of databases and their most common use cases.
+- Design Patterns by the “Gang of Four”
+After learning how to program and releasing multiple solutions, every developer starts observing some similarities in code. In certain cases, they would usually apply one approach. In other cases, a different common technique would be used. If you feel the same way, you have reached a turning point.
+- Java Concurrency in Practice by Brian Goetz
+
 ## Architect bookshelf
 https://architectelevator.com/architecture/architect-bookshelf/
 
