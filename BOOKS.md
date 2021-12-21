@@ -5,7 +5,9 @@
 
 - Principles of Web API Design: Delivering Value with APIs and Microservices
 
-## https://architectelevator.com/architecture/architect-bookshelf/
+## Architect bookshelf
+https://architectelevator.com/architecture/architect-bookshelf/
+
 ### Single components
 When designing a single software component, architects should focus on good coding and design practices. Following the horizontal axis from left to right (from specific to abstract), I find the following books to be useful for this layer (with overlay links - thanks, Jekyll!):
 
