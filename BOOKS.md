@@ -1,5 +1,7 @@
 # Pessoal
-- 
+- Are we smart engough to know how smart animals are?
+- A revolução dos bichos
+- Andar do bêbado
 
 # Técnicos
 
