@@ -33,6 +33,7 @@
 - fd: super finder 
 - [jq](https://stedolan.github.io/jq/) => manipular json na linha de comando
 - ripgrep: more powerful and easier grep
+- [Stats](https://github.com/exelban/stats): mostra cpu/memória na barra principal
 - [yadr](https://github.com/skwp/dotfiles): deixa o terminal mais top
 - z: move around directories
 
