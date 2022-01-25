@@ -1,5 +1,6 @@
 # Ambientes de execução
 - [jenv - gerenciador de versões java](https://medium.com/@chamikakasun/how-to-manage-multiple-java-version-in-macos-e5421345f6d0)
+- nvm
 
 # Arquitetura de software
 - [Arquitetura Hexagonal](https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/#comment-634858)
@@ -18,6 +19,7 @@
 # MacOS
 - [Kap](https://getkap.co/) => Criar gifs a partir de vídeos
 - [Lightshot](https://apps.apple.com/us/app/lightshot-screenshot/id526298438?mt=12) => Captura de tela
+- [Rectangle](https://formulae.brew.sh/cask/rectangle) => window resizing
 
 # Microsserviços
 - [The InfoQ eMag - Microservices: Testing, Observing, and Understanding](https://www.infoq.com/minibooks/understanding-microservices/?itm_source=minibooks&itm_medium=link&itm_campaign=homepage)
