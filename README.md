@@ -20,6 +20,7 @@
 - [Kap](https://getkap.co/) => Criar gifs a partir de vídeos
 - [Lightshot](https://apps.apple.com/us/app/lightshot-screenshot/id526298438?mt=12) => Captura de tela
 - [Rectangle](https://formulae.brew.sh/cask/rectangle) => window resizing
+- [Superpowered](https://superpowered.me/)
 
 # Microsserviços
 - [The InfoQ eMag - Microservices: Testing, Observing, and Understanding](https://www.infoq.com/minibooks/understanding-microservices/?itm_source=minibooks&itm_medium=link&itm_campaign=homepage)
