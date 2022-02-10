@@ -17,6 +17,7 @@
 - [Entendendo o processamento](https://www.youtube.com/watch?v=D9rVPRUzbeE&list=PLwuCDBoP4wG-Jtg2dtdW7IoqN2SC_tfTB&ab_channel=RobertoHypolitoAmaral)
 
 # MacOS
+- [Omni - Google Chrome](Omni - Bookmark, History, & Tab Manager) => navega fácil com atalhos
 - [Kap](https://getkap.co/) => Criar gifs a partir de vídeos
 - [Lightshot](https://apps.apple.com/us/app/lightshot-screenshot/id526298438?mt=12) => Captura de tela
 - [Rectangle](https://formulae.brew.sh/cask/rectangle) => window resizing
