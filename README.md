@@ -30,6 +30,9 @@
 # Plataformas
 - [What I Talk About When I Talk About Platforms](https://martinfowler.com/articles/talk-about-platforms.html)
 
+# Pragmatic programmer
+- [RFC's - Scaling engineering teams via writing things down](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)
+
 # Terminal
 - [CLI Tools](https://medium.com/swlh/my-favorite-cli-tools-c2fa484cee52)
 - [csvkit](https://github.com/wireservice/csvkit) => converter json -> csv e vice-versa
