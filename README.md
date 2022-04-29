@@ -38,6 +38,7 @@
 - [csvkit](https://github.com/wireservice/csvkit) => converter json -> csv e vice-versa
 - exa: ls
 - fd: super finder 
+- [fig.io](https://fig.io/) => adiciona um auto-complete massa no terminal
 - [jq](https://stedolan.github.io/jq/) => manipular json na linha de comando
 - ripgrep: more powerful and easier grep
 - [Stats](https://github.com/exelban/stats): mostra cpu/memória na barra principal
