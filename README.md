@@ -1,6 +1,6 @@
 # Ambientes de execução
-- [jenv - gerenciador de versões java](https://medium.com/@chamikakasun/how-to-manage-multiple-java-version-in-macos-e5421345f6d0)
 - nvm
+- [sdkman](https://sdkman.io/install) => gerenciar versões do Java
 
 # Arquitetura de software
 - [Arquitetura Hexagonal](https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/#comment-634858)
@@ -42,7 +42,6 @@
 - [fig.io](https://fig.io/) => adiciona um auto-complete massa no terminal
 - [jq](https://stedolan.github.io/jq/) => manipular json na linha de comando
 - ripgrep: more powerful and easier grep
-- [sdkman](https://sdkman.io/install) => gerenciar versões do Java
 - [Stats](https://github.com/exelban/stats): mostra cpu/memória na barra principal
 - [yadr](https://github.com/skwp/dotfiles): deixa o terminal mais top
 - z: move around directories
