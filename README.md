@@ -17,6 +17,7 @@
 - [Entendendo o processamento](https://www.youtube.com/watch?v=D9rVPRUzbeE&list=PLwuCDBoP4wG-Jtg2dtdW7IoqN2SC_tfTB&ab_channel=RobertoHypolitoAmaral)
 
 # MacOS
+- Airbuddy 2
 - [Omni - Google Chrome](Omni - Bookmark, History, & Tab Manager) => navega fácil com atalhos
 - [Kap](https://getkap.co/) => Criar gifs a partir de vídeos
 - [Lightshot](https://apps.apple.com/us/app/lightshot-screenshot/id526298438?mt=12) => Captura de tela
@@ -41,6 +42,7 @@
 - [fig.io](https://fig.io/) => adiciona um auto-complete massa no terminal
 - [jq](https://stedolan.github.io/jq/) => manipular json na linha de comando
 - ripgrep: more powerful and easier grep
+- [sdkman](https://sdkman.io/install) => gerenciar versões do Java
 - [Stats](https://github.com/exelban/stats): mostra cpu/memória na barra principal
 - [yadr](https://github.com/skwp/dotfiles): deixa o terminal mais top
 - z: move around directories
