@@ -1,3 +1,5 @@
+https://blog.oliverjumpertz.dev/11-best-github-repositories-that-help-you-become-a-better-software-developer
+
 # Ambientes de execução
 - nvm
 - [sdkman](https://sdkman.io/install) => gerenciar versões do Java
