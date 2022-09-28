@@ -23,7 +23,9 @@ https://blog.oliverjumpertz.dev/11-best-github-repositories-that-help-you-become
 - [Omni - Google Chrome](Omni - Bookmark, History, & Tab Manager) => navega fácil com atalhos
 - [Kap](https://getkap.co/) => Criar gifs a partir de vídeos
 - [Lightshot](https://apps.apple.com/us/app/lightshot-screenshot/id526298438?mt=12) => Captura de tela
+- OpenEMU - jogo SNS
 - [Rectangle](https://formulae.brew.sh/cask/rectangle) => window resizing
+- Stremio - filmes
 - [Superpowered](https://superpowered.me/)
 
 # Microsserviços
