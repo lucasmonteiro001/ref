@@ -15,8 +15,11 @@ https://blog.oliverjumpertz.dev/11-best-github-repositories-that-help-you-become
 - [Postgres max_connections](https://www.cybertec-postgresql.com/en/tuning-max_connections-in-postgresql/)
 - [Postgres max_connections performance impact](https://www.cybertec-postgresql.com/en/max_connections-performance-impacts/)
 
-# Cartões de crédito
-- [Entendendo o processamento](https://www.youtube.com/watch?v=D9rVPRUzbeE&list=PLwuCDBoP4wG-Jtg2dtdW7IoqN2SC_tfTB&ab_channel=RobertoHypolitoAmaral)
+# IntelliJ
+- Vim
+- SonarCloud
+- Key promoter X
+- Change memory settings
 
 # MacOS
 - Airbuddy 2
