@@ -48,6 +48,7 @@ https://blog.oliverjumpertz.dev/11-best-github-repositories-that-help-you-become
 - fd: super finder 
 - [fig.io](https://fig.io/) => adiciona um auto-complete massa no terminal
 - [jq](https://stedolan.github.io/jq/) => manipular json na linha de comando
+- ohmyzsh
 - ripgrep: more powerful and easier grep
 - [Stats](https://github.com/exelban/stats): mostra cpu/memória na barra principal
 - [yadr](https://github.com/skwp/dotfiles): deixa o terminal mais top
