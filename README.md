@@ -23,6 +23,7 @@ https://blog.oliverjumpertz.dev/11-best-github-repositories-that-help-you-become
 
 # MacOS
 - Airbuddy 2
+- [Git aliaes](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
 - [Omni - Google Chrome](Omni - Bookmark, History, & Tab Manager) => navega fácil com atalhos
 - [Kap](https://getkap.co/) => Criar gifs a partir de vídeos
 - [Lightshot](https://apps.apple.com/us/app/lightshot-screenshot/id526298438?mt=12) => Captura de tela
