@@ -2,7 +2,8 @@ https://blog.oliverjumpertz.dev/11-best-github-repositories-that-help-you-become
 
 # Ambientes de execução
 - nvm
-- [sdkman](https://sdkman.io/install) => gerenciar versões do Java
+- [jabba](https://github.com/shyiko/jabba#readme) -> funcionou melhor que o sdkman pra gerenciar versões
+-- [sdkman](https://sdkman.io/install) => gerenciar versões do Java
 
 # Arquitetura de software
 - [Arquitetura Hexagonal](https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/#comment-634858)
